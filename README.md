@@ -1,9 +1,9 @@
 # CanalesHD
 CanalesHD 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FHHzV1b.jpg" group-title="INFO",ListaPremium CanalesHD
-https://latinotv-usuarios.ltvtecnotuto.workers.dev/0:/Colorful%20Futuristic%20Neon%20Gaming%20Channel%20Youtube%20Outro.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: grupo LTV ROKU Y M3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CK6V903m/Picsart-25-03-30-21-23-48-905.jpg" group-title="INFO",ListaPremium CanalesHD
+https://files.catbox.moe/stugpp.mp4
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO", Canales HD - Contraseña: CanalesHD777
 t.me/LTV_TECNOTUTO (https://t.me/LTV_TECNOTUTO)
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="MEXICO",LAS ESTRELLAS HD
